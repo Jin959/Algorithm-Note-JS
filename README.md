@@ -7,7 +7,6 @@
 
  - Selection Sort
  - Insertion Sort
- - Merge Sort
 
 ## Searching
 
@@ -27,11 +26,10 @@
 
  - Linked List
  - Heap
- - Index Tree
 
 ## Hash
 
- - DAT(Direct Adress Table)
+ - [DAT(Direct Adress Table)](https://github.com/Jin959/Algorithm-Note-JS/blob/main/Hash/DAT.js)
 
 ## Et cetera
 
