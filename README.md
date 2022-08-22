@@ -34,7 +34,8 @@
 ## Et cetera
 
  - Array(Matrix) Handling
-   * 2D Array
+   * [Array.sort](https://github.com/Jin959/Algorithm-Note-JS/blob/main/Array(Matrix)_Handling/sort_method.js)
+   * [2D Array](https://github.com/Jin959/Algorithm-Note-JS/blob/main/Array(Matrix)_Handling/2D_array.js)
 
  - Prefix
    * 1D prefix
