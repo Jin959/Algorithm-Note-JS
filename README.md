@@ -29,7 +29,9 @@
 
 ## Hash
 
- - [DAT(Direct Adress Table)](https://github.com/Jin959/Algorithm-Note-JS/blob/main/Hash/DAT.js)
+ - DAT(Direct Adress Table)
+   * [DAT using ASCII](https://github.com/Jin959/Algorithm-Note-JS/blob/main/Hash/DAT_usingASCII.js)
+   * [DAT](https://github.com/Jin959/Algorithm-Note-JS/blob/main/Hash/DAT.js)
 
 ## Et cetera
 
